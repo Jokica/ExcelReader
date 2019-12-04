@@ -1,0 +1,10 @@
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.DB\bin\Debug\ExelReader.DB.dacpac
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.DB\bin\Debug\ExelReader.DB.dll
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.DB\bin\Debug\ExelReader.DB.pdb
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.DB\obj\Debug\ExelReader.DB.sqlprojAssemblyReference.cache
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.DB\obj\Debug\Model.xml
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.DB\obj\Debug\refactor.xml
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.DB\obj\Debug\postdeploy.sql
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.DB\obj\Debug\predeploy.sql
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.DB\obj\Debug\ExelReader.DB.dll
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.DB\obj\Debug\ExelReader.DB.pdb

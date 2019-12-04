@@ -1,0 +1,10 @@
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.Transformer\bin\Debug\ExelReader.Transformer.dll
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.Transformer\bin\Debug\ExelReader.Transformer.pdb
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.Transformer\obj\Debug\ExelReader.Transformer.csproj.CoreCompileInputs.cache
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.Transformer\obj\Debug\ExelReader.Transformer.dll
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.Transformer\obj\Debug\ExelReader.Transformer.pdb
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.Transformer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.Transformer\bin\Debug\ExcelDataReader.dll
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.Transformer\bin\Debug\ExcelDataReader.xml
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.Transformer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Jovan Gjorgjiev\source\repos\ExelReader\ExelReader.Transformer\obj\Debug\ExelReader.Transformer.csproj.CopyComplete
